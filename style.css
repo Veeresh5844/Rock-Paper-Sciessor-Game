@@ -1,0 +1,25 @@
+
+.choice {
+    width:100px;
+    height:100px;
+    margin-right: 50px;
+    font-size: 100%;
+    display: flex;
+}
+
+#emoji{
+    font-size: 100px;
+}
+.choices{
+    display:flex;
+    margin-left: 30%;
+}
+.score-board{
+    margin-left: 45%;
+    margin-top: 100px;
+}
+#msg{
+    margin-left: 35%;
+    margin-top: 90px;
+    font-size: 40px;
+}
